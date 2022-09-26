@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/color-change/static/css/main.f99602f9.css",
-    "main.js": "/color-change/static/js/main.e40cc61f.js",
+    "main.js": "/color-change/static/js/main.a668d437.js",
     "index.html": "/color-change/index.html",
     "main.f99602f9.css.map": "/color-change/static/css/main.f99602f9.css.map",
-    "main.e40cc61f.js.map": "/color-change/static/js/main.e40cc61f.js.map"
+    "main.a668d437.js.map": "/color-change/static/js/main.a668d437.js.map"
   },
   "entrypoints": [
     "static/css/main.f99602f9.css",
-    "static/js/main.e40cc61f.js"
+    "static/js/main.a668d437.js"
   ]
 }
