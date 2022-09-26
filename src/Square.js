@@ -11,7 +11,7 @@ const Square = ({ colorValue, hexValue, isDarkText }) => {
 
             }}
         >
-            <p>{colorValue ? colorValue : "Empty Value"}</p>
+            <p>{colorValue ? colorValue : "What is Value?"}</p>
             <p>{hexValue ? hexValue : null}</p>
         </section>
 
